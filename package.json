@@ -1,0 +1,21 @@
+{
+  "name": "adventofcode-2017",
+  "version": "1.0.0",
+  "description": "My solutions for the Advent of Code 2017 code challenge",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fvanwijk/adventofcode-201.git"
+  },
+  "keywords": [
+    "advent",
+    "code",
+    "2017",
+    "XebiaAOC"
+  ],
+  "author": "Frank van Wijk <fvanwijk@xebia.com> (http://www.frankvanwijk.nl)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fvanwijk/adventofcode-2017/issues"
+  },
+  "homepage": "https://github.com/fvanwijk/adventofcode-2016"
+}
