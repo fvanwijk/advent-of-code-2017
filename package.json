@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/fvanwijk/adventofcode-2017/issues"
   },
-  "homepage": "https://github.com/fvanwijk/adventofcode-2016"
+  "homepage": "https://github.com/fvanwijk/adventofcode-2016",
+  "dependencies": {
+    "js-combinatorics": "0.5.3"
+  }
 }
